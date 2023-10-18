@@ -67,12 +67,12 @@ body {
 }
 
 /* Images used */
-.img1 { background-image: url("lezen.jpg"); }
-.img2 { background-image: url("webdesign.jpg"); }
-.img3 { background-image: url("tekenen.jpg"); }
-.img4 { background-image: url("games.jpg"); }
-.img5 { background-image: url("piano.jpg"); }
-.img6 { background-image: url("piano.jpg"); }
+.img1 { background-image: url("afbeldingen/lezen.jpg"); }
+.img2 { background-image: url("afbeldingen/webdesign.jpg"); }
+.img3 { background-image: url("afbeldingen/tekenen.jpg"); }
+.img4 { background-image: url("afbeldingen/games.jpg"); }
+.img5 { background-image: url("afbeldingen/piano.jpg"); }
+.img6 { background-image: url("afbeldingen/piano.jpg"); }
 
 
 /* Position text in the middle of the page/image */
